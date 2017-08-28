@@ -1,7 +1,9 @@
 # (Lalit D) Sorting algorithm
+
 def bsort(list):
     list.sort()
     return list
-
-list = [2,4,5,6,7,1]
+list = [2, 4, 5, 6, 7, 1]
 print bsort(list)
+
+## This is the basic structure
